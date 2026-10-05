@@ -17,3 +17,7 @@ Compile the program using:
 
 ```bash
 gcc calculator.c -o calculator
+Then run:
+
+```bash
+./calculator
