@@ -9,7 +9,11 @@ A simple calculator program written in C.
 - Multiplication
 - Division
 - Handles division by zero
-- Handles invalid operators
+- Handles invalid operators 
+
+## 2. Even Odd Checker
+A simple program to check whether a number is even or odd.
+
 
 ## How to Run
 
