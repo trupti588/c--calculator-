@@ -14,6 +14,9 @@ A simple calculator program written in C.
 ## 2. Even Odd Checker
 A simple program to check whether a number is even or odd.
 
+##3. positive negative checker 
+A simple program that will check the given number is positive or negative number.
+
 
 ## How to Run
 
